@@ -21,7 +21,8 @@
       {
         "tab": "Get started",
         "groups": [
-          { "group": "Welcome", "pages": ["index", "install"] }
+          { "group": "Welcome", "pages": ["index", "install"] },
+          { "group": "Resources", "pages": ["faq", "changelog"] }
         ]
       },
       {
