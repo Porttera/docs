@@ -1,0 +1,56 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "Porttera",
+  "description": "Guides and reference for the Porttera apps — Wholesale, Product Customizer, and Bundles.",
+  "colors": {
+    "primary": "#117afa",
+    "light": "#3b95ff",
+    "dark": "#117afa"
+  },
+  "appearance": {
+    "default": "dark"
+  },
+  "favicon": "/favicon.svg",
+  "logo": {
+    "light": "/logo/light.svg",
+    "dark": "/logo/dark.svg"
+  },
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Get started",
+        "groups": [
+          { "group": "Welcome", "pages": ["index", "install"] }
+        ]
+      },
+      {
+        "tab": "Wholesale",
+        "groups": [
+          { "group": "Wholesale", "pages": ["wholesale/overview", "wholesale/quickstart", "wholesale/features", "wholesale/settings", "wholesale/developer"] }
+        ]
+      },
+      {
+        "tab": "Product Customizer",
+        "groups": [
+          { "group": "Product Customizer", "pages": ["customizer/overview", "customizer/quickstart", "customizer/features", "customizer/settings", "customizer/developer"] }
+        ]
+      },
+      {
+        "tab": "Bundles",
+        "groups": [
+          { "group": "Bundles", "pages": ["bundles/overview", "bundles/quickstart", "bundles/features", "bundles/settings", "bundles/developer"] }
+        ]
+      }
+    ]
+  },
+  "navbar": {
+    "links": [
+      { "label": "Support", "href": "https://porttera.com/pages/contact" }
+    ],
+    "primary": { "type": "button", "label": "porttera.com", "href": "https://porttera.com" }
+  },
+  "footer": {
+    "socials": { "website": "https://porttera.com" }
+  }
+}
