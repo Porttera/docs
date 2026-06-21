@@ -28,19 +28,19 @@
       {
         "tab": "Wholesale",
         "groups": [
-          { "group": "Wholesale", "pages": ["wholesale/overview", "wholesale/quickstart", "wholesale/features", "wholesale/settings", "wholesale/developer"] }
+          { "group": "Wholesale", "pages": ["wholesale/overview", "wholesale/quickstart", "wholesale/features", "wholesale/settings", "wholesale/developer", "wholesale/troubleshooting"] }
         ]
       },
       {
         "tab": "Product Customizer",
         "groups": [
-          { "group": "Product Customizer", "pages": ["customizer/overview", "customizer/quickstart", "customizer/features", "customizer/settings", "customizer/developer"] }
+          { "group": "Product Customizer", "pages": ["customizer/overview", "customizer/quickstart", "customizer/features", "customizer/settings", "customizer/developer", "customizer/troubleshooting"] }
         ]
       },
       {
         "tab": "Bundles",
         "groups": [
-          { "group": "Bundles", "pages": ["bundles/overview", "bundles/quickstart", "bundles/features", "bundles/settings", "bundles/developer"] }
+          { "group": "Bundles", "pages": ["bundles/overview", "bundles/quickstart", "bundles/features", "bundles/settings", "bundles/developer", "bundles/troubleshooting"] }
         ]
       }
     ]
