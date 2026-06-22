@@ -1,6 +1,6 @@
 # Porttera Docs
 
-[![Docs Check](https://github.com/teamsaroj/docs/actions/workflows/docs-check.yml/badge.svg)](https://github.com/teamsaroj/docs/actions/workflows/docs-check.yml)
+[![Docs Check](https://github.com/porttera/docs/actions/workflows/docs-check.yml/badge.svg)](https://github.com/porttera/docs/actions/workflows/docs-check.yml)
 
 Documentation for the Porttera Shopify apps (Wholesale, Product Customizer, Bundles),
 built with [Mintlify](https://mintlify.com).
@@ -29,7 +29,7 @@ mint dev             # serve at http://localhost:3000
 
 ## Deploy
 
-1. Push this repo to GitHub (e.g. `teamsaroj/porttera-docs`).
+1. Push this repo to GitHub (`porttera/docs`).
 2. In the [Mintlify dashboard](https://dashboard.mintlify.com), connect the repo.
    Mintlify auto-deploys on every push to `main`.
 3. **Custom domain:** in the dashboard set the domain to `docs.porttera.com`,
