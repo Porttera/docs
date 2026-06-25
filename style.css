@@ -1,12 +1,13 @@
 /* Porttera docs — custom styling.
    Give the left sidebar a subtle panel background + divider so it reads as
-   separate from the main content. Neutral tint works in both light and dark. */
+   separate from the main content. Neutral gray matches the porttera-pro
+   theme's muted accent (#8A8A8A) in both light and dark. */
 
 #sidebar,
 aside#sidebar,
 nav#sidebar {
-  background-color: rgba(120, 130, 150, 0.05);
-  border-right: 1px solid rgba(120, 130, 150, 0.14);
+  background-color: rgba(138, 138, 138, 0.06);
+  border-right: 1px solid rgba(138, 138, 138, 0.16);
 }
 
 /* A touch more padding so content doesn't hug the divider. */
