@@ -15,6 +15,9 @@
     "family": "Inter"
   },
   "background": {
+    "color": {
+      "dark": "#0B0B0B"
+    },
     "decoration": "gradient"
   },
   "styling": {
